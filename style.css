@@ -19,11 +19,12 @@ body {
 
 header h1 {
     text-align: center;
-    margin: -4px 0;
+    margin: -6px 0;
     letter-spacing: 0.15px;
 }
 
-p {
+p,
+.servings {
     margin: 0;
     display: flex;
     justify-content: space-between;
@@ -63,8 +64,34 @@ p {
     margin: -5px -2px;
 }
 
-.right {
+.calories {
     font-size: 1.3em;
     margin: -10px 0;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+.indent {
+    margin-left: 1em;
+}
+
+.double-indent {
+    margin-left: 2em;
+}
+
+.note {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.6rem;
+    margin: 2px 0;
+}
+
+.l,
+.r {
+    text-align: justify;
+    text-indent: 2px;
 }
 
