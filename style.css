@@ -34,3 +34,6 @@ p {
     margin: 2px 0;
 }
 
+.bold {
+    font-weight: 800;
+}
