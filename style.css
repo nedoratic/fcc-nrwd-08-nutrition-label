@@ -34,6 +34,20 @@ p {
     margin: 2px 0;
 }
 
+.large,
+.medium {
+    background-color: #111111;
+}
+
+.large {
+    height: 10px;
+}
+
+.medium {
+    height: 5px;
+}
+
 .bold {
     font-weight: 800;
 }
+
