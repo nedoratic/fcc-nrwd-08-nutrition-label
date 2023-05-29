@@ -29,3 +29,8 @@ p {
     justify-content: space-between;
 }
 
+.divider {
+    border-bottom: 1px solid #111111;
+    margin: 2px 0;
+}
+
