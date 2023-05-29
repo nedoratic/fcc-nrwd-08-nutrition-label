@@ -54,3 +54,17 @@ p {
 .small-text {
     font-size: 0.85rem;
 }
+
+.calories-info {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2em;
+    font-weight: 700;
+    margin: -5px -2px;
+}
+
+.right {
+    font-size: 1.3em;
+    margin: -10px 0;
+}
+
