@@ -23,3 +23,9 @@ header h1 {
     letter-spacing: 0.15px;
 }
 
+p {
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
