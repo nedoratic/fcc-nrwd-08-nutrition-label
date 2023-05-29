@@ -51,3 +51,6 @@ p {
     font-weight: 800;
 }
 
+.small-text {
+    font-size: 0.85rem;
+}
